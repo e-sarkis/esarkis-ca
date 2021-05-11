@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website and portfolio.
 disclaimer: Views and opinions expressed here are my own, and do not necessarily reflect those of my employers, organizations, committees or other groups or individuals.
 #baseurl: "/esarkis-ca" # the subpath of your site, e.g. /blog
-#url: "https://e-sarkis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://e-sarkis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: e-sarkis
 github_username:  e-sarkis
 header_pages:
