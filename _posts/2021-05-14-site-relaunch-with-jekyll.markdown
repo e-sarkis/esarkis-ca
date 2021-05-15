@@ -7,7 +7,7 @@ categories: update
 
 Howdy!
 
-I'm happy to say I've bid my farewell to Sqaurespace forever, and am finally using [Jekyll](https://jekyllrb.com/) to statically deploy this website on [GitHub Pages](https://pages.github.com/).
+I'm happy to say I've bid my farewell to Squarespace forever, and am finally using [Jekyll](https://jekyllrb.com/) to statically deploy this website on [GitHub Pages](https://pages.github.com/).
 
 [PTBO Game Jam](http://ptbogamejam.com/) has been doing this for our website for years, but I never managed to play around with it much. 
 
