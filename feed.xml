@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://e-sarkis.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://e-sarkis.github.io/" rel="alternate" type="text/html" /><updated>2022-02-05T15:23:55+00:00</updated><id>https://e-sarkis.github.io/feed.xml</id><title type="html">Elisha Sarkis</title><subtitle>Personal website and portfolio.</subtitle><entry><title type="html">Hello world, welcome back!</title><link href="https://e-sarkis.github.io/update/2021/05/15/site-relaunch-with-jekyll.html" rel="alternate" type="text/html" title="Hello world, welcome back!" /><published>2021-05-15T00:00:00+00:00</published><updated>2021-05-15T00:00:00+00:00</updated><id>https://e-sarkis.github.io/update/2021/05/15/site-relaunch-with-jekyll</id><content type="html" xml:base="https://e-sarkis.github.io/update/2021/05/15/site-relaunch-with-jekyll.html">&lt;p&gt;Howdy!&lt;/p&gt;
+
+&lt;p&gt;I’m happy to say I’ve bid my farewell to Squarespace forever, and am finally using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; to statically deploy this website on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ptbogamejam.com/&quot;&gt;PTBO Game Jam&lt;/a&gt; has been doing this for our website for years, but I never managed to play around with it much.&lt;/p&gt;
+
+&lt;p&gt;You can check out the whole thing on the &lt;a href=&quot;https://github.com/PTBOGameJam/PTBOGameJam&quot;&gt;PTBOGameJam GitHub project&lt;/a&gt; and tour through all the work Matthew Davey did putting the thing together. The finished result has always looked just terrific.&lt;/p&gt;
+
+&lt;p&gt;The project for this website is on my GitHub in the project &lt;a href=&quot;https://github.com/e-sarkis/esarkis-ca&quot;&gt;esarkis-ca&lt;/a&gt;, which you should feel free to poke around in.&lt;/p&gt;
+
+&lt;p&gt;I think most people I know who have websites need something about as complex as what I’ve done here, and have no sensitive data or need for a database.&lt;/p&gt;
+
+&lt;p&gt;It’s a shame Jekyll isn’t more popular given this is all in front of you for zero dollars, which reminds me to do my small part and add “powered by Jekyll on GitHub Pages” to the footer.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Elisha&lt;/p&gt;</content><author><name></name></author><category term="update" /><summary type="html">Howdy!</summary></entry></feed>
